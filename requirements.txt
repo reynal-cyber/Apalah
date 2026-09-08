@@ -1,0 +1,5 @@
+telethon>=1.36,<2
+fastapi
+uvicorn
+python-multipart
+itsdangerous
